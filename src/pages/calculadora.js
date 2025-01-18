@@ -12,7 +12,7 @@ export default function Calculadora() {
 
   return (
     <div>
-      <h1>Calculadora simples</h1>
+      <h1>Calculadora Simples</h1>
       <div>
         <input
           type="number"
